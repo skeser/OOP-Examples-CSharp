@@ -1,0 +1,9 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\bin\Debug\IsyeriApp.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\bin\Debug\IsyeriApp.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\bin\Debug\IsyeriApp.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\38-IsyeriUygulama\IsyeriApp\IsyeriApp\obj\Debug\IsyeriApp.pdb
