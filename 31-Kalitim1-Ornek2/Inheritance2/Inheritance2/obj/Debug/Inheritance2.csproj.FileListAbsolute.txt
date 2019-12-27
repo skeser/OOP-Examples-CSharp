@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\31-Kalitim1-Ornek2\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb

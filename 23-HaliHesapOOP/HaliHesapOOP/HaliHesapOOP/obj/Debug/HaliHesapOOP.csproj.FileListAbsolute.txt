@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\bin\Debug\HaliHesapOOP.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\bin\Debug\HaliHesapOOP.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\bin\Debug\HaliHesapOOP.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\23-HaliHesapOOP\HaliHesapOOP\HaliHesapOOP\obj\Debug\HaliHesapOOP.pdb

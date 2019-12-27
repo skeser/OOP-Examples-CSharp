@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridePolymorphism1", "OverridePolymorphism1\OverridePolymorphism1.csproj", "{C85C94E2-1A60-4064-A6CD-C8ECB1B3D8F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85C94E2-1A60-4064-A6CD-C8ECB1B3D8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85C94E2-1A60-4064-A6CD-C8ECB1B3D8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85C94E2-1A60-4064-A6CD-C8ECB1B3D8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85C94E2-1A60-4064-A6CD-C8ECB1B3D8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4320043-7F00-441F-8A23-A0028B85419A}
+	EndGlobalSection
+EndGlobal

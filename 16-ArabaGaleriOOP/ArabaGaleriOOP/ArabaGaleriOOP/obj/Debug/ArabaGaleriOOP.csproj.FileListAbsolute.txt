@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\bin\Debug\ArabaGaleriOOP.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\bin\Debug\ArabaGaleriOOP.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\bin\Debug\ArabaGaleriOOP.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\16-ArabaGaleriOOP\ArabaGaleriOOP\ArabaGaleriOOP\obj\Debug\ArabaGaleriOOP.pdb

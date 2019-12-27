@@ -1,0 +1,9 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\bin\Debug\SifirGirSayTopla.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\bin\Debug\SifirGirSayTopla.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\bin\Debug\SifirGirSayTopla.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\9-SifirGirileneKadarkiSayilariTopla\SifirGirSayTopla\SifirGirSayTopla\obj\Debug\SifirGirSayTopla.pdb

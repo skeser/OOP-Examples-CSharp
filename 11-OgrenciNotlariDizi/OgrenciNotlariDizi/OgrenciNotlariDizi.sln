@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciNotlariDizi", "OgrenciNotlariDizi\OgrenciNotlariDizi.csproj", "{F14BA50A-1A98-4736-A81E-1263BFECE9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14BA50A-1A98-4736-A81E-1263BFECE9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14BA50A-1A98-4736-A81E-1263BFECE9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14BA50A-1A98-4736-A81E-1263BFECE9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14BA50A-1A98-4736-A81E-1263BFECE9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD992E00-AA25-41A9-A75E-0C141F578539}
+	EndGlobalSection
+EndGlobal

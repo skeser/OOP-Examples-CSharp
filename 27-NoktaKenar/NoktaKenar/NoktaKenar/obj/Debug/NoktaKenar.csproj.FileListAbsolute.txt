@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\bin\Debug\NoktaKenar.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\bin\Debug\NoktaKenar.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\bin\Debug\NoktaKenar.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\27-NoktaKenar\NoktaKenar\NoktaKenar\obj\Debug\NoktaKenar.pdb

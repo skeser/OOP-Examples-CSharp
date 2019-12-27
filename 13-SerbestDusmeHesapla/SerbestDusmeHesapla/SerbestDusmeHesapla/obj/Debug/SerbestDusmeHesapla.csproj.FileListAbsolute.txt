@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\bin\Debug\SerbestDusmeHesapla.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\bin\Debug\SerbestDusmeHesapla.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\bin\Debug\SerbestDusmeHesapla.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\13-SerbestDusmeHesapla\SerbestDusmeHesapla\SerbestDusmeHesapla\obj\Debug\SerbestDusmeHesapla.pdb

@@ -1,0 +1,10 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.csproj.CoreCompileInputs.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\bin\Debug\IlPlaka.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\bin\Debug\IlPlaka.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\bin\Debug\IlPlaka.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\6-IlPlaka\IlPlaka\IlPlaka\obj\Debug\IlPlaka.pdb
