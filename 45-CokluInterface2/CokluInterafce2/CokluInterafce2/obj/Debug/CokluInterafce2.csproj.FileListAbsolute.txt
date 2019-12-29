@@ -1,0 +1,9 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.Form1.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.Properties.Resources.resources
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.csproj.GenerateResource.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\bin\Debug\CokluInterafce2.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\bin\Debug\CokluInterafce2.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\bin\Debug\CokluInterafce2.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\45-CokluInterface2\CokluInterafce2\CokluInterafce2\obj\Debug\CokluInterafce2.pdb

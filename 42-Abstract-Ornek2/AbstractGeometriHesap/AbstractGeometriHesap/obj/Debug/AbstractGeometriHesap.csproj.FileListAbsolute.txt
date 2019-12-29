@@ -1,0 +1,6 @@
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\bin\Debug\AbstractGeometriHesap.exe.config
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\bin\Debug\AbstractGeometriHesap.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\bin\Debug\AbstractGeometriHesap.pdb
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\obj\Debug\AbstractGeometriHesap.csprojAssemblyReference.cache
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\obj\Debug\AbstractGeometriHesap.exe
+Q:\1-MyProject\34-CBU-YazMuh\Dersler\3-NYP\0-DersNot\0-2019-2020-Guz\Examples\42-Abstract-Ornek2\AbstractGeometriHesap\AbstractGeometriHesap\obj\Debug\AbstractGeometriHesap.pdb

@@ -22,7 +22,7 @@ namespace Abstract1
         // if base class : 6-virtual methods
         // if extended :  7-overrided methods.
         // 8-methods ??
-        // 9- abstract methods
+        // 9- abstract methods : govdesi yazılamaz.
         public abstract string SesCikar();
 
     }
