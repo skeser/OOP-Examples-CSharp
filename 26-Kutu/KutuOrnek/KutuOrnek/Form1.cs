@@ -26,7 +26,7 @@ namespace KutuOrnek
 
             MessageBox.Show("k1 :" + k1.kutuOlcuGoster() + "\n" +
                             "k2 :" + k2.kutuOlcuGoster() + "\n" +
-                            "k4 :" + k3.kutuOlcuGoster() + "\n"
+                            "k3 :" + k3.kutuOlcuGoster() + "\n"
                             );
             MessageBox.Show("Custom kutular \n" +
                             k1.customKutuGoster(1) +

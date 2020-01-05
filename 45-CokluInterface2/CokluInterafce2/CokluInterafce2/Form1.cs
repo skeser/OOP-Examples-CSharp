@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace CokluInterafce2
@@ -27,7 +20,7 @@ namespace CokluInterafce2
                     "Sahin.<<abstract>>Araba.<<abstract>>YakitTuket() :" + s.YakitTuket() + "\n" +
                     "Sahin.<<abstract>>Araba.<<virtual>>Plaka() :" + s.Plaka()
                 );
-            
+
             Renault r = new Renault(180, 5);
             MessageBox.Show
                 (
@@ -38,7 +31,7 @@ namespace CokluInterafce2
                     "------- IKontak interface'i ile kazandirilan yetenek. -----" + "\n" +
                     "Renoult<<Interface>>IKontak.KontakAc() :" + r.KontakAc()
                 );
-            Audi a = new Audi(280,7);
+            Audi a = new Audi(280, 7);
             MessageBox.Show
                (
                    "Audi.<<abstract>>Araba.GetMaxHiz (returned, private maxHiz) :" + a.GetMaxHiz() + "\n" +

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CokluInterafce2
+﻿namespace CokluInterafce2
 {
     public class Sahin : Araba
     {
@@ -12,7 +6,7 @@ namespace CokluInterafce2
          * base class'in constructure'i kullanılıyor.
          * upcast.
          */
-        public Sahin(int maxHiz, int vitesSay):base(maxHiz, vitesSay)
+        public Sahin(int maxHiz, int vitesSay) : base(maxHiz, vitesSay)
         {
 
         }

@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CokluInterafce2
+﻿namespace CokluInterafce2
 {
-    class Audi:Araba,IKontak,IKlima,IUstuAcilabilable
+    class Audi : Araba, IKontak, IKlima, IUstuAcilabilable
     {
         /*
          * 1-) imlemete edilen abstract Araba class'indaki
@@ -15,12 +9,12 @@ namespace CokluInterafce2
          * 2-) 3 interface implemente edilmiş, hepsindeki methodlar
          * burada yazıalcak ZORUNLU
          */
-         /*
-          * base sinifin const.. kullaniliyor.
-          */
-        public Audi(int maxHiz, int vitesSay):base(maxHiz, vitesSay)
+        /*
+         * base sinifin const.. kullaniliyor.
+         */
+        public Audi(int maxHiz, int vitesSay) : base(maxHiz, vitesSay)
         {
-           
+
         }
         /*
          *  base abstract class daki abstract method implemete ediliyor..

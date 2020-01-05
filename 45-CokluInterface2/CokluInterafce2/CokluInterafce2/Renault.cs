@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CokluInterafce2
+﻿namespace CokluInterafce2
 {
-    class Renault:Araba,IKontak
+    class Renault : Araba, IKontak
     {
         /*
          *  constructure upcast, base class'in ki kullaniliyor..
          **/
-        public Renault(int maxHiz, int vitesSay):base(maxHiz, vitesSay)
+        public Renault(int maxHiz, int vitesSay) : base(maxHiz, vitesSay)
         {
-            
+
         }
         /*
          *  base class'daki abstract class'lar override ediliyor. 
